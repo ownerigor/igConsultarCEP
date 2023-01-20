@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/01/12 07:54:05.000.133,=C:\Users\Igor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/12 07:57:24.000.160,C:\Sistemas\SupraConsultarCEP\pas\uniFrmConsultarCEP.dfm=C:\Users\Igor\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/01/12 07:57:24.000.160,C:\Sistemas\SupraConsultarCEP\pas\uniFrmConsultarCEP.pas=C:\Users\Igor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/01/12 07:57:39.000.509,C:\Sistemas\SupraConsultarCEP\dpr\projConsultarCEP.dproj=C:\Users\Igor\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/01/12 13:29:00.000.592,=C:\Sistemas\SupraConsultarCEP\json\uLkJSON.pas</Transaction>
+  </Transactions>
+</BorlandProject>
